@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: lineage-17.0
-    upstream: LineageOS:lineage-17.0
+  - base: lineage-17.1
+    upstream: LineageOS:lineage-17.1
     mergeMethod: hardreset
